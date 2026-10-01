@@ -1,0 +1,10 @@
+# Footage, renders and downloaded assets stay local: the source clip shows a real person.
+work/
+assets/
+*.mp4
+*.mov
+*.wav
+*.png
+*.jpg
+*.npz
+__pycache__/
